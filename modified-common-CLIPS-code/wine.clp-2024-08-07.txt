@@ -1,0 +1,1 @@
+I changed the references to the deprecated functions nth and member to nth$ and member$ respectively in order to load and run under CLIPS 6.4.1
